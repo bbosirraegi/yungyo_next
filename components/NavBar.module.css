@@ -1,0 +1,8 @@
+.link {
+    text-decoration: none;
+    /* 언더라인 지워주기 */
+}
+
+.active {
+    color: tomato;
+}
